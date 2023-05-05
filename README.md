@@ -1,70 +1,9 @@
-# Getting Started with Create React App
+## qual è la differenza tra libreria e framework
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In informatica, una libreria e un framework sono due concetti distinti che spesso vengono utilizzati in modo intercambiabile, ma hanno significati diversi.
 
-## Available Scripts
+Una libreria è un insieme di funzioni, classi e metodi predefiniti che possono essere utilizzati da un programma per eseguire determinate operazioni. In genere, le librerie sono scritte in un linguaggio di programmazione specifico e offrono un insieme di funzionalità comuni che possono essere richiamate dal programma principale. Un esempio di libreria comune è la libreria standard di C++, che fornisce una vasta gamma di funzioni per manipolare stringhe, file, memoria, matematica e così via.
 
-In the project directory, you can run:
+Un framework, d'altra parte, è un'architettura software completa che fornisce una struttura per lo sviluppo di un'applicazione. Un framework definisce una serie di regole e convenzioni che il programmatore deve seguire per sviluppare un'applicazione. Inoltre, un framework fornisce spesso una serie di librerie e strumenti predefiniti per semplificare lo sviluppo dell'applicazione. Ad esempio, un framework web come Ruby on Rails definisce una serie di convenzioni per lo sviluppo di applicazioni web e fornisce una serie di librerie per gestire l'interazione con il database, l'elaborazione delle richieste HTTP e così via.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+In sintesi, la principale differenza tra una libreria e un framework è che una libreria fornisce una serie di funzioni che possono essere utilizzate da un programma principale, mentre un framework è un'architettura completa che fornisce una struttura per lo sviluppo di un'applicazione e una serie di librerie e strumenti predefiniti per semplificare il processo di sviluppo.
