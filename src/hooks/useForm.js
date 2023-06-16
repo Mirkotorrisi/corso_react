@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 export const useForm = () => {
   // l'hook useState serve a conservare e manipolare dei dati che vengono mostrati nella nostra interfaccia
